@@ -10,9 +10,9 @@
   
 1.animation sets
 
-*move from / to
+* move from / to
 
-   *pt-page-moveToLeft
+   * pt-page-moveToLeft
 
 
 2.keyframes
