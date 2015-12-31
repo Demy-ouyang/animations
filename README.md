@@ -6,9 +6,11 @@
 ```html
 <link rel="stylesheet" type="text/css" href="css/animations.css" />
 ```
-#####`animations.css`分类
+  `animations.css`分类
+  
 1.animation sets
 *move from / to
  **pt-page-moveToLeft
+
 
 2.keyframes
